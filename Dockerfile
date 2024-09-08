@@ -17,4 +17,4 @@ COPY . .
 # EXPOSE 5000
 
 # Startet den Bot
-CMD ["python", "./bot.py"]
+CMD ["python", "./main.py"]
